@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment / Conda environment files
+.env/
+.venv/
+env/
+venv/
+*.conda
+*.yml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Mac / Windows metadata
+.DS_Store
+Thumbs.db
